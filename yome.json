@@ -1,5 +1,5 @@
 {
-  "total" : 13,
+  "total" : 14,
   "entries" : [
     {
       "name"    : "青葉つぐみ",
@@ -71,6 +71,12 @@
       "name" : "氷室恭子",
       "origin" : "EVE -burst error-",
       "element" : ["パートナー"]
+    },
+
+    {
+      "name" : "高原歩美",
+      "origin" : "神のみぞ知るセカイ",
+      "element" : ["同級生"]
     },
 
     {
