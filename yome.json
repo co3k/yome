@@ -1,0 +1,82 @@
+{
+  "total" : 13,
+  "entries" : [
+    {
+      "name"    : "青葉つぐみ",
+      "origin"  : "かんなぎ",
+      "element" : ["幼なじみ"]
+    },
+
+    {
+      "name"    : "四葉",
+      "origin"  : "シスター・プリンセス",
+      "element" : ["妹"]
+    },
+
+    {
+      "name"    : "桜井梨穂子",
+      "origin"  : "アマガミ",
+      "element" : ["幼なじみ"]
+    },
+
+    {
+      "name"    : "吉田一美",
+      "origin"  : "灼眼のシャナ",
+      "element" : ["同級生"]
+    },
+
+    {
+      "name"    : "御船流子",
+      "origin"  : "電波女と青春男",
+      "element" : ["同級生"]
+    },
+
+    {
+      "name"    : "平沢憂",
+      "origin"  : "けいおん",
+      "element" : ["妹"]
+    },
+
+    {
+      "name"    : "涼宮茜",
+      "origin"  : "君が望む永遠",
+      "element" : ["彼女の妹", "後輩"]
+    },
+
+    {
+      "name"    : "古川渚",
+      "origin"  : "CLANNAD",
+      "element" : ["同級生"]
+    },
+
+    {
+      "name" : "シャルロット・デュノア",
+      "origin" : "インフィニット・ストラトス",
+      "element" : ["同級生"]
+    },
+
+    {
+      "name" : "白咲ひな",
+      "origin" : "SuGirly Wish",
+      "element" : ["妹", "後輩"]
+    },
+
+    {
+      "name" : "久我山このか",
+      "origin" : "プリズム◇リコレクション!",
+      "element" : ["妹", "後輩"]
+    },
+
+    {
+      "name" : "氷室恭子",
+      "origin" : "EVE -burst error-",
+      "element" : ["パートナー"]
+    },
+
+    {
+      "name" : "春咲千和",
+      "origin" : "俺の彼女と幼なじみが修羅場過ぎる",
+      "element" : ["幼なじみ"]
+    }
+  ]
+}
